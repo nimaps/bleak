@@ -116,6 +116,7 @@ autodoc_mock_imports = [
     "android",
     "async_timeout",
     "bleak_winrt",
+    "bleak.backends.corebluetooth.io_bluetooth",
     "CoreBluetooth",
     "dbus_fast",
     "Foundation",
